@@ -1,4 +1,4 @@
-# accessLevel
+# accessLevel [npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/accesslevel)
 
 NPM package to set different access level in application depending user's role
 

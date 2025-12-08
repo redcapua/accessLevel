@@ -1,6 +1,6 @@
 {
   "name": "accesslevel",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "NPM package to set different access level in application depending user's role",
   "main": "./lib/accessLevel.js",
   "scripts": {
